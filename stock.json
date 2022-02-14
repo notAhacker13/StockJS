@@ -1,0 +1,69 @@
+{
+    "stocks": [{
+            "id": 1,
+            "name": "HCL",
+            "img": "https://1000logos.net/wp-content/uploads/2021/09/HCL-Logo.png",
+            "func": {}
+        },
+        {
+            "id": 2,
+            "name": "HUL",
+            "img": "https://cdn.sanity.io/images/92ui5egz/production/7c1c60e9afaaaa3cce61e5101717796d21b7f914-1426x1080.svg?auto=format",
+            "func": {}
+        },
+        {
+            "id": 3,
+            "name": "CCL",
+            "img": "https://thumbs.dreamstime.com/b/ccl-letter-initial-logo-design-vector-illustration-letter-initial-logo-design-vector-illustration-ccl-letter-initial-logo-design-236622684.jpg",
+            "func": {}
+        },
+        {
+            "id": 4,
+            "name": "BIL",
+            "img": "https://media.glassdoor.com/sqll/894451/bil-squarelogo-1457092946708.png",
+            "func": {}
+        },
+        {
+            "id": 5,
+            "name": "BSE",
+            "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAb1BMVEUAidD///8Ags4Ahc7C2u+gy+l7ueMAh88Agc2CveQAi9EAhM/i8PlGn9j2+/02mdbO5fTV6PVVotm01O2OwuZqsd+Uxuf3+/2s0OvG4PInlNS41+5fpdqLv+Vzsd+DueLs9vthq93a6/fn8/o7m9ZbM8WyAAAEw0lEQVR4nO3bYXeqIBgH8IQpFDPbtGa2duuu7/8Zb1YgZtMH9Jh35/97t3OGiAg8PNJsBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8EsJxdopxUXrBbjquIR6VKq7GFOt9VKxOHxpl4ZRzNlPlXG5OO7zXdsFdllx30bBeByFaUfNYcwGaGAYUCzT+GEbuTpuPwjl17UmChbnS1K9oezbQL4mVVRaFc0HKk+vxNKF9XxYsSLXuuY9W8jeyHUFweauGwXbkMuGyqdUELz1fU8VtQ8utvWhL3f0oqluoVBblypfH81SLphTdcHKbqLMHUrulW4g/Q0tbfv2oYid6gu21chXc4dyh8Xt0Ui3RxrEvRcMtaZNatrcvG2FQ6nvhHs8lvMUvu77kpZ1Lo5Ru2xnP4SZ7gx7EG6z1it86pdbLOzb37WXiqLjYoAGliFJB8Wk9eTT68CwuzDkUrVfQtfF0qrUXLKOUrw9lhqUKqpuvI4oVUUK75J6I1YXLhthzpPxpHr2lx7h3/rvI/1WrVGY9F3JB8fMza3K6bR6SXOHuEqalWI+QMA5MCEOt5v7KJ9+Fe0VLtfQ7/pBjDfCyJiZO8sQU+nIa+XQhcK86un0uvDca3/MzFK2UMczG4cJQ7zrS/yZ3Cg841/69j7Pt6f0tL93aCH/1Jf4mmQLf30fMhNnJ8JaDrde4zCf4DgU3Myl5Txo5tKPBX1WFEKnAw4jRitUKtLP/7oemu5wyTNIs9+OJhbR1GKay9wihFdMk5mrTCymESyp4tJrxqUalsGRHJfOqnB9mfyYvRtcmbdsJ7mVWdk19xbpQj4s1xxszNpybfjjUq0X8KGKedgur+UdHm7W39Jmsc1+fZL3OV17fxis8o6a50NsQFgWOMnMHj/p/ufgEBb1l1G5Vtd7WeFHtxqtxBDbk0qE9W5kbomo4Ng7X+pW4V/unms71KZNwf861bgaN18aiNoTpeZLT3YpLpxq7J8v7dGH50WENqqWVtwzeh+6jsO7ColfIKzUvGNCuP84pM4XRlZ/awSLU0LCNdL36fTN4mw/QIjuux5qnPF4nW2apez18qCD1yesh74xTfcVpL323T6SucY0Q7SP9hCacaljqes6Kp4Tl5Lc7y2IpU6mQZeXe7p7i1kjX0okTZMu35CqfOn09odWvnTp8PTFQr+n5Wxq7fEnmS81H1USh7szO5DyK/e08zR3uTYqkznO1eRzbfV8KZXSAUX5Hf+/ypdS/U99WP9uQfXDOJzidwvfuVTPntOfSz3XQxPunerr4fS+H1bRye0bsGOp62kTVW1kphbTNL/jO5a6xaXP+Y7vdxbjzKXUbSP7lLMYlPM09vlKfZ5G8M9o/til1N7eGev94TPO0/ieieLJd/c/G2aPr9xSCsuv3k30PddWhdQUb9X0O/q5Nt+ziU59Ucu1jX020fd8qUq7/9uo5UtHP1/qeUZY0Y6Hlw6n+tI38hlh33Pe9LOXKW+s7aOe855Jz7P6tEez3J0eJZzGPKvv/3sLVWStP7J42eXzd/FTQm3E31v0+M1MZ7n2mGS038wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABM0T8vHlIxv4pnJwAAAABJRU5ErkJggg==",
+            "func": {}
+        },
+        {
+            "id": 6,
+            "name": "ITC",
+            "img": "https://www.nextbigbrand.in/wp-content/uploads/2019/03/itc.jpeg",
+            "func": {}
+        },
+        {
+            "id": 7,
+            "name": "ACC",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/ACC_Limited_logo.svg/1280px-ACC_Limited_logo.svg.png",
+            "func": {}
+        },
+        {
+            "id": 8,
+            "name": "BPL",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BPL_Logo.svg/1200px-BPL_Logo.svg.png",
+            "func": {}
+        },
+        {
+            "id": 9,
+            "name": "SBI",
+            "img": "https://1000logos.net/wp-content/uploads/2018/03/SBI-Logo.png",
+            "func": {}
+        },
+        {
+            "id": 10,
+            "name": "LIC",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvsP56ThTmX1teZy39kCRHp_cNAjgaMlwz7wUekdTsklKWwCm7ASsq90XYLFUAkzcDI4&usqp=CAU",
+            "func": {}
+        },
+        {
+            "id": 11,
+            "name": "TCS",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/1200px-Tata_Consultancy_Services_Logo.svg.png",
+            "func": {}
+        }
+    ]
+}
